@@ -1,4 +1,4 @@
-require 'kml'
+require 'ruby_kml'
 
 module Kamel
   class Overlay
